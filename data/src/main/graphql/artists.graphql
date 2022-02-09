@@ -1,0 +1,31 @@
+query Artists($q: String!,$pageSize: Int!,$after:String) {
+  search {
+    artists(query: $q, first: $pageSize, after: $after) {
+      nodes {
+        ...ArtistBasicFragment
+      }
+      pageInfo {
+        endCursor
+      }
+    }
+  }
+}
+
+query Artist ($id: ID!){
+  node(id: $id) {
+    ...ArtistDetailsFragment
+  }
+}
+
+fragment ArtistDetailsFragment on Artist {
+  id
+  name
+  disambiguation
+  country
+}
+
+fragment ArtistBasicFragment on Artist {
+  id
+  name
+  disambiguation
+}

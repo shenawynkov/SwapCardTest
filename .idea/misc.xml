@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shenawynkov/AndroidStudioProjects/SwapCardTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/Users/shenawynkov/AndroidStudioProjects/SwapCardTest/app/src/main/res/layout/activity_artist_detail.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/shenawynkov/AndroidStudioProjects/SwapCardTest/app/src/main/res/layout/fragment_artist.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/shenawynkov/AndroidStudioProjects/SwapCardTest/app/src/main/res/layout/fragment_artists.xml" value="0.2365079365079365" />
+        <entry key="..\:/Users/shenawynkov/AndroidStudioProjects/SwapCardTest/app/src/main/res/layout/fragment_fav_count.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/shenawynkov/AndroidStudioProjects/SwapCardTest/app/src/main/res/layout/item_artist.xml" value="0.3541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
